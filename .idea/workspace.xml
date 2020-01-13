@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11a04fba-9207-412e-ab88-066344f534ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Admin\IdeaProjects\brewery-bom\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WLGPRM3Lyw9Uq50yrf5r3sctQh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11a04fba-9207-412e-ab88-066344f534ac" name="Default Changelist" comment="" />
+      <created>1578921436569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578921436569</updated>
+      <workItem from="1578921440073" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="552" key="#Project_Structure" timestamp="1578921443531">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="0" y="552" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1578921443531" />
+    <state x="1127" y="1070" width="309" height="258" key="Github.ShareDialog" timestamp="1578921459930">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1127" y="1070" width="309" height="258" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1578921459930" />
+    <state x="0" y="681" key="Github.UntrackedFilesDialog" timestamp="1578921472522">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="0" y="681" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1578921472522" />
+  </component>
+</project>
